@@ -1,0 +1,11 @@
+to compile on Linux or Mac,
+
+gcc mac-os.c -o mac-os
+./mac-os
+
+------------------------------------
+
+to compile on Windows,
+
+gcc windows.c -o windows.exe -liphlpapi -lws2_32
+win_list
