@@ -34,7 +34,6 @@
 #include <stdio.h>
 #include <string.h>
 
-#include "chap03.h"
 
 #if defined(_WIN32)
 #include <conio.h>
